@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "packages": {
+    "x11": {
+      "version": "1.2",
+      "vcsRevision": "29aca5e519ebf5d833f63a6a2769e62ec7bfb83a",
+      "url": "https://github.com/nim-lang/x11",
+      "downloadMethod": "git",
+      "dependencies": [],
+      "checksums": {
+        "sha1": "6db9aa495a228e9e68faa80acf301f60accd8e5a"
+      }
+    }
+  },
+  "tasks": {}
+}
